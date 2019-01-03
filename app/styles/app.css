@@ -10,7 +10,7 @@ body {
 
 nav {
 	text-align: center;
-	background: #333;
+	background: red;
 	padding: 2em;
 
 
@@ -36,7 +36,7 @@ nav 	a {
 	max-width: 770px;
 	margin: 0 auto;
 	padding-bottom: 120px;
-	
+
 }
 
 .meta {
